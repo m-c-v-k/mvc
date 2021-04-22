@@ -1,0 +1,28 @@
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:30	The method parse has a boolean flag argument $assoc, which is a certain sign of a Single Responsibility Principle violation.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:42	Avoid using static access to class 'Flatted' in method 'parse'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:44	Avoid using static access to class 'Flatted' in method 'parse'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:44	Avoid using static access to class 'Flatted' in method 'parse'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:49	Missing class import via use statement (line '49', column '18').
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:54	Avoid using static access to class 'Flatted' in method 'stringify'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:54	Avoid variables with short names like $i. Configured minimum length is 3.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:55	Avoid using count() function in while loops.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:56	Avoid using static access to class 'Flatted' in method 'stringify'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:63	Avoid unused private methods such as 'asString'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:76	Missing class import via use statement (line '76', column '16').
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:89	Avoid using static access to class 'Flatted' in method 'loop'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:101	Avoid using static access to class 'Flatted' in method 'relate'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:108	Avoid using static access to class 'Flatted' in method 'relate'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:115	Avoid using static access to class 'Flatted' in method 'relate'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:123	Avoid using static access to class 'Flatted' in method 'ref'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:127	Avoid using static access to class 'Flatted' in method 'ref'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:127	Avoid using static access to class 'Flatted' in method 'ref'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:132	The method ref uses an else expression. Else clauses are basically not necessary and you can simplify the code by not using them.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:141	Avoid using static access to class 'Flatted' in method 'transform'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:147	Missing class import via use statement (line '147', column '21').
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:148	Avoid using static access to class 'Flatted' in method 'transform'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:150	Avoid using static access to class 'Flatted' in method 'transform'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:159	Missing class import via use statement (line '159', column '18').
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\flatted.php:165	Avoid using static access to class 'Flatted' in method 'wrap'.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\test.php:7	The class console is not named in CamelCase.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\node_modules\flatted\php\test.php:11	The method assert() contains an exit expression.
+C:\cygwin64\home\marcu\dbwebb-kurser\mvc\me\game\src\Router\Router.php:21	The method dispatch() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10.
